@@ -1,6 +1,6 @@
 AUTHOR = 'Andy McKay'
 SITENAME = 'Ban Cars'
-SITEURL = ''
+SITEURL = 'https://andymckay.github.io/ban-cars/'
 
 PATH = 'content'
 
