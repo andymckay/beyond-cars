@@ -27,11 +27,13 @@ In 1973 a campaign called "Stop de Kindermood" translated as "Stop the Child Mur
 
 👆 Protest in central Amsterdam
 
-1973 was also at the time of the Oil Crisis [^3], so a fortunate time to complain about cars and focus on cycling as the cost of filling a car quadrupled. When you have a large number of people protesting, you also get city designers and planners which means you also get ideas and support across the political spectrum.
+1973 was also at the time of the Oil Crisis [^3], so a fortunate time to complain about cars and focus on cycling as the cost of filling a car quadrupled with petrol. When you have a large number of people protesting, you also get city designers and planners which means you also get ideas and support across the political spectrum.
+
+It took time to change, it wasn't overnight, but at a critical point of Dutch development, they decided not to focus on the car as their primary mode of transport. They decided not to tear down large parts of their city to make space for cars, unlike so many other cities in North America.
 
 ---
 
-Fast forward almost 50 years and the result is about 66% of [^4] travel in Amsterdam is by bike and only 19% is by car and its moving towards getting rid of most or all trips in the city centre. It's like they are trying to ban cars.
+Fast forward almost 50 years and the result is about 66% of [^4] travel in Amsterdam is by bike and only 19% is by car and it's moving towards getting rid of most or all trips in the city centre. It's like they are trying to ban cars.
 
 The Dutch made a choice to be the way they are. It's up to us to make the same choice.
 
