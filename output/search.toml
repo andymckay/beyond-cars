@@ -1,0 +1,18 @@
+[input]
+base_directory = "/Users/a/c/ban-cars/output"
+html_selector = "main"
+
+[[input.files]]
+path = "pages/about.html"
+url = "/pages/about.html"
+title = "About"
+
+[[input.files]]
+path = "pages/others.html"
+url = "/pages/others.html"
+title = "Others"
+
+[[input.files]]
+path = "we-arent-amsterdam.html"
+url = "/we-arent-amsterdam.html"
+title = "We aren't Amsterdam"

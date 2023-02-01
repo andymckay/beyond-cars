@@ -2,14 +2,14 @@ AUTHOR = 'Andy McKay'
 SITENAME = 'Ban Cars'
 SITEURL = ''
 SUBTITLE = 'Ban Cars'
-SUBTEXT = 'About cars and why we need less of them.'
+SUBTEXT = 'About cars and why we need less of them and more space for people.'
 COPYRIGHT = '2023 and beyond'
 
 PATH = 'content'
 THEME = 'themes/Papyrus'
 THEME_STATIC_PATHS = ['static']
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['readimte', 'search', 'neighbors', 'pelican-toc']
+PLUGINS = ['readtime', 'search', 'neighbors', 'pelican-toc']
 
 DISPLAY_PAGES_ON_MENU = True
 DIRECT_TEMPLATES = (('index', 'search', 'tags', 'categories', 'archives',))
@@ -63,6 +63,8 @@ SHARE = (
 )
 
 DEFAULT_PAGINATION = 10
-
+FAVICON_URLS = (
+    ('icon', 'icon.svg'),
+)
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
