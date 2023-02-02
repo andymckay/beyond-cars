@@ -64,7 +64,7 @@ SHARE = (
 
 DEFAULT_PAGINATION = 10
 FAVICON_URLS = (
-    ('icon', 'icon.svg'),
+    ('icon', '/images/icon.svg'),
 )
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
