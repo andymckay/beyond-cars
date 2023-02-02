@@ -49,7 +49,7 @@ LINKS = (('Pelican', 'https://getpelican.com/'),
 # Social widgets
 SOCIAL = (
     ('github', 'https://github.com/andymckay/beyond-cars'),
-    ('twitter', 'https://twitter.com/'),
+    ('mastodon', 'https://mastodon.social/@andymckay'),
 )
 
 # Article share widgets
