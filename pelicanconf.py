@@ -1,8 +1,8 @@
 AUTHOR = 'Andy McKay'
-SITENAME = 'Ban Cars'
+SITENAME = 'Beyond Cars'
 SITEURL = ''
-SUBTITLE = 'Ban Cars'
-SUBTEXT = 'About cars and why we need less of them and more space for people.'
+SUBTITLE = 'Beyond Cars'
+SUBTEXT = 'About cars and why we need to think beyond our windscreens and a future with less cars.'
 COPYRIGHT = '2023 and beyond'
 
 PATH = 'content'

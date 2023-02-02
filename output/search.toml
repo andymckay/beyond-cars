@@ -1,5 +1,5 @@
 [input]
-base_directory = "/Users/a/c/ban-cars/output"
+base_directory = "/Users/a/c/beyond-cars/output"
 html_selector = "main"
 
 [[input.files]]

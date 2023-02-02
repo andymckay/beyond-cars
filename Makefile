@@ -33,10 +33,11 @@ help:
 	@echo 'Makefile for a pelican Web site                                           '
 	@echo '                                                                          '
 	@echo 'Usage:                                                                    '
+	@echo '   make publish                        👈 use this one to push to pages    '
+	@echo '                                                                          '	
 	@echo '   make html                           (re)generate the web site          '
 	@echo '   make clean                          remove the generated files         '
 	@echo '   make regenerate                     regenerate files upon modification '
-	@echo '   make publish                        generate using production settings '
 	@echo '   make serve [PORT=8000]              serve site at http://localhost:8000'
 	@echo '   make serve-global [SERVER=0.0.0.0]  serve (as root) to $(SERVER):80    '
 	@echo '   make devserver [PORT=8000]          serve and regenerate together      '
@@ -72,10 +73,6 @@ publish:
 	"$(PELICAN)" "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(PUBLISHCONF)" $(PELICANOPTS)
 	git commit -m "publishing to main" -a
 	git push
-
-github: publish
-	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) "$(OUTPUTDIR)"
-	git push origin $(GITHUB_PAGES_BRANCH)
 
 
 .PHONY: html help clean regenerate serve serve-global devserver publish github
