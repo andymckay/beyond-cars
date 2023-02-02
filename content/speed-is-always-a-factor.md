@@ -6,7 +6,7 @@ Summary: When people say "speed wasn't a factor" in a collision, they are mislea
 
 You will often the phrase in the press "Speed wasn't a factor" after a crash. What they are really saying is that the driver was (given available evidence) **not going excessively beyond the speed limit**. As it turns out **speed is always a factor**.
 
-There are a few things that determine if you will survive collision with an object, simplified they are: *it' mass*, *it's velocity* and *it's shape*.
+There are a few things that determine if you will survive collision with an object, simplified they are its: *mass*, *velocity* and *shape*.
 
 We'll leave *shape* out of this for the moment, because that's a different subject. Let's focus on the amount of kinetic energy that impacts an object when it's hit by a vehicle. We'll also ignore reaction times from all parties and other things.
 

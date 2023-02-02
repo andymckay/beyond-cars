@@ -18,6 +18,11 @@ url = "/speed-is-always-a-factor.html"
 title = "Speed is always a factor"
 
 [[input.files]]
+path = "induced-demand.html"
+url = "/induced-demand.html"
+title = "Induced demand"
+
+[[input.files]]
 path = "we-arent-amsterdam.html"
 url = "/we-arent-amsterdam.html"
 title = "We aren't Amsterdam"

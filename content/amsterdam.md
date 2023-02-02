@@ -8,9 +8,9 @@ A common refrain against bike infrastructure is "We can't do that, we aren't Ams
 
 The idea here is that there's no point in trying to be like Amsterdam because people don't cycle, they drive cars. Or we have hills. Or it rains. Or it we aren't dense enough. Or whatever. There's a lot to unpack in this argument, but let's start with what happened in Amsterdam (and the Netherlands in general).
 
-<img src="{static}/images/amsterdam-before.jpg" alt="screenshot" />
+<img src="{static}/images/amsterdam-before.jpg" />
 
-<img src="{static}/images/amsterdam-after.jpg" alt="screenshot" />
+<img src="{static}/images/amsterdam-after.jpg" />
 
 👆 Before and after
 
@@ -23,7 +23,7 @@ In 1973 a campaign called "Stop de Kindermood" translated as "Stop the Child Mur
 </blockquote>
 <cite>Maartje van Putten</cite>
 
-<img src="{static}/images/amsterdam-protest.png" alt="screenshot" />
+<img src="{static}/images/amsterdam-protest.png" />
 
 👆 Protest in central Amsterdam
 
