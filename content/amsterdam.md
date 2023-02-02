@@ -2,7 +2,7 @@ Title: We aren't Amsterdam
 Date: 2023-01-31
 Tags: Cities, Amsterdam
 Category: Advocacy
-Summary: Amsterdam as we know it today wasn't like Amsterdam either. They wanted something different.
+Summary: Neither was Amsterdam in the 1970s. They wanted something different.
 
 A common refrain against bike infrastructure is "We can't do that, we aren't Amsterdam". As [Brent Toderian has put it several times](https://mastodon.online/@BrentToderian/109334602532842211) the suitable reply is "Amsterdam wasn't always like that either".
 
@@ -39,5 +39,5 @@ The Dutch made a choice to be the way they are. It's up to us to make the same c
 
 [^1]: [Guardian](https://www.theguardian.com/cities/2015/may/05/amsterdam-bicycle-capital-world-transport-cycling-kindermoord)
 [^2]: [BBC Sounds](https://www.bbc.co.uk/sounds/play/p01lw88k)
-[^3]: [Bloomberg](https://www.bloomberg.com/news/articles/2019-10-07/how-amsterdam-is-closing-the-door-on-downtown-cars)
-[^4]: [Federal Reserve](https://www.chicagofed.org/publications/chicago-fed-letter/1994/october-86)
+[^3]: [Federal Reserve](https://www.chicagofed.org/publications/chicago-fed-letter/1994/october-86)
+[^4]: [Bloomberg](https://www.bloomberg.com/news/articles/2019-10-07/how-amsterdam-is-closing-the-door-on-downtown-cars)
