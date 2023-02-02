@@ -71,6 +71,8 @@ devserver-global:
 
 publish:
 	"$(PELICAN)" "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(PUBLISHCONF)" $(PELICANOPTS)
+	git add content/*
+	git add output/*
 	git commit -m "publishing to main" -a
 	git push
 

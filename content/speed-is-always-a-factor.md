@@ -1,5 +1,5 @@
 Title: Speed is always a factor
-Date: 2023-01-31
+Date: 2023-02-02
 Tags: Speed, Safety
 Category: Safety
 Summary: When people say "speed wasn't a factor" in a collision, they are misleading you. It's always a factor.
