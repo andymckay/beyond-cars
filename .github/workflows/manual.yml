@@ -14,5 +14,5 @@ jobs:
       env:
         KEY: ${{ secrets.KEY }} 
       run: |
-        wget "https://notifications.clearwind.ca/" > out.txt
+        wget -v "https://notifications.clearwind.ca/" > out.txt
         cat out.txt
