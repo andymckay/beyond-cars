@@ -40,16 +40,10 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
-
 # Social widgets
 SOCIAL = (
     ('github', 'https://github.com/andymckay/beyond-cars'),
-    ('mastodon', 'https://mastodon.social/@andymckay'),
+    ('mastodon', 'https://hachyderm.io/@beyondcars'),
 )
 
 # Article share widgets
