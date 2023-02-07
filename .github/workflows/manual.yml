@@ -14,5 +14,6 @@ jobs:
       env:
         KEY: ${{ secrets.KEY }} 
       run: |
-        curl -s -X POST "https://notifications.clearwind.ca/rss/parse/0d72687a-b7fd-4b84-84f9-d09b5b20bd33" -F "key=$KEY" > out.txt
+        wget "https://notifications.clearwind.ca/" 
+        curl "https://notifications.clearwind.ca/" > out.txt
         cat out.txt
