@@ -10,24 +10,15 @@
     <title>Archive | BEYOND CARS 🌎</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda|Comfortaa" />
-    <link rel="stylesheet" type="text/css" href="https://beyondcars.ca/theme/css/main.css" />
-    <link rel="stylesheet" type="text/css" href="https://beyondcars.ca/theme/css/pygment.css" />
-    <link rel="stylesheet" href="https://beyondcars.ca/theme/css/stork.css">
+    <link rel="stylesheet" type="text/css" href="/theme/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="/theme/css/pygment.css" />
+    <link rel="stylesheet" href="/theme/css/stork.css">
     <link rel="stylesheet" media="screen and (prefers-color-scheme: dark)"
-        href="https://beyondcars.ca/theme/css/stork-dark.css">
-    <link
-        href="https://beyondcars.ca/feeds/all.atom.xml"
-        type="application/atom+xml" rel="alternate" title="BEYOND CARS 🌎 Atom Feed" />
-        <link rel="icon" href="https://beyondcars.ca/images/icon.svg" />
-            <link rel="mask-icon" href="https://beyondcars.ca/images/icon.svg" color="#000000"/>
+        href="/theme/css/stork-dark.css">
+        <link rel="icon" href="/images/icon.svg" />
+            <link rel="mask-icon" href="/images/icon.svg" color="#000000"/>
 
-    <script>
-        if (localStorage.getItem('color-theme') === 'dark' || (!('color-theme' in localStorage) && window.matchMedia(
-                '(prefers-color-scheme: dark)').matches)) {
-            document.documentElement.classList.add('dark');
-        } else {
-            document.documentElement.classList.remove('dark')
-        }
+    <script src="/theme/js/site.js">
     </script>
 </head>
 
@@ -36,15 +27,16 @@
     <nav class="sm:flex sm:justify-between xl:ml-32 pl-4 items-center">
         <div class="flex pt-4">
             <h1 class="font-semibold text-2xl">
-                <a href="https://beyondcars.ca/">BEYOND CARS 🌎</a></h1>
+                <a href="/">BEYOND CARS 🌎</a></h1>
         </div>
         <ul class="flex flex-wrap lg:mr-24 md:pt-0">
-            <li class="mr-4 pt-6"><a  href="https://beyondcars.ca/pages/about.html">About</a></li>
-            <li class="mr-4 pt-6"><a  href="https://beyondcars.ca/pages/others.html">Others</a></li>
-            <li class="mr-4 pt-6"><a  href="https://github.com/andymckay/beyond-cars-data">Data</a></li>
+            <li class="mr-4 pt-6"><a  href="/pages/about.html">About</a></li>
+            <li class="mr-4 pt-6"><a  href="/pages/others.html">Others</a></li>
+            <li class="mr-4 pt-6"><a href="#" id="subscribe-show">Subscribe</a></li>
+            <li class="mr-4 pt-6"><a href="https://github.com/andymckay/beyond-cars-data">Data</a></li>
             <li class="mr-4 pt-6"><a  class="border-b-2 border-zinc-800 dark:border-zinc-300"
- href="https://beyondcars.ca/archives.html">Archive</a></li>
-            <li class="mr-4 pt-6"><a  href="https://beyondcars.ca/search.html">Search</a></li>
+ href="/archives.html">Archive</a></li>
+            <li class="mr-4 pt-6"><a  href="/search.html">Search</a></li>
             <li class="mr-4 pt-6" id="theme-toggle">
                 <svg id="theme-toggle-dark-icon" class="w-5 h-5 hidden" fill="currentColor" viewBox="0 0 20 20"
                     xmlns="http://www.w3.org/2000/svg">
@@ -59,6 +51,17 @@
             </li>
         </ul>
     </nav>
+    <div class="flex-grow md:max-w-screen-md md:mx-auto md:w-3/4 px-4 mt-3" id="subscribe" style="display: none">
+        <div class="bg-white dark:bg-zinc-800 p-4 md:p-6 mb-4 rounded-lg">
+        <p class="text-zinc-500 dark:text-zinc-400">Want to get Beyond Cars in your inbox? Then sign up for free 👇 and unsubscribe at any time. You can also get us on <a href="https://hachyderm.io/@beyondcars" class="underline">Mastodon</a> or <a href="#" class="underline" id="subscribe-close">just close this and carry on</a>.</p>
+        <p>
+            <form class="mt-3">
+                <input class="font-semibold h-10 w-full border-2 border-zinc-500  bg-zinc-100 dark:bg-zinc-800 placeholder-zinc-400 dark:placeholder-zinc-300 focus:border-zinc-500 focus:outline-none rounded-lg pl-4" type="email" name="email" placeholder="Your email address">
+                <button type="submit" class="bg-gray-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-3">Subscribe</button>
+            </form
+        </p>
+        </div>
+    </div>
     <div class="flex-grow md:max-w-screen-md md:mx-auto md:w-3/4 px-4">
 
 <div class="md:mt-14 text-zinc-800 dark:text-zinc-300 pb-6">
@@ -77,7 +80,7 @@
 
                 </sup>
             </time>
-            <a href="https://beyondcars.ca/average-speed-cameras.html">
+            <a href="/average-speed-cameras.html">
                 <li class="flex-1 md:mt-2"><span class="text-lg">Average speed cameras</span><br>
                     <div class="flex text-xs text-zinc-800 dark:text-zinc-400">
                         <time>February 08, 2023</time>
@@ -93,7 +96,7 @@
         </div>
         <div class="md:flex">
             <time class="flex md:w-40"></time>
-            <a href="https://beyondcars.ca/highways-in-vancouver.html">
+            <a href="/highways-in-vancouver.html">
                 <li class="flex-1 md:mt-2 mt-1"><span class="text-lg">Highways in Vancouver</span><br>
                     <div class="flex text-xs text-zinc-800 dark:text-zinc-400">
                         <time>February 07, 2023</time>
@@ -109,7 +112,7 @@
         </div>
         <div class="md:flex">
             <time class="flex md:w-40"></time>
-            <a href="https://beyondcars.ca/speed-is-always-a-factor.html">
+            <a href="/speed-is-always-a-factor.html">
                 <li class="flex-1 md:mt-2 mt-1"><span class="text-lg">Speed is always a factor</span><br>
                     <div class="flex text-xs text-zinc-800 dark:text-zinc-400">
                         <time>February 02, 2023</time>
@@ -125,7 +128,7 @@
         </div>
         <div class="md:flex">
             <time class="flex md:w-40"></time>
-            <a href="https://beyondcars.ca/induced-demand.html">
+            <a href="/induced-demand.html">
                 <li class="flex-1 md:mt-2 mt-1"><span class="text-lg">Induced demand</span><br>
                     <div class="flex text-xs text-zinc-800 dark:text-zinc-400">
                         <time>February 01, 2023</time>
@@ -146,7 +149,7 @@
 
                 </sup>
             </time>
-            <a href="https://beyondcars.ca/we-arent-amsterdam.html">
+            <a href="/we-arent-amsterdam.html">
                 <li class="flex-1 md:mt-2"><span class="text-lg">We aren't Amsterdam</span><br>
                     <div class="flex text-xs text-zinc-800 dark:text-zinc-400">
                         <time>January 31, 2023</time>
@@ -173,38 +176,6 @@
     </footer>
 
 
-    <script>
-        let themeToggleDarkIcon = document.getElementById('theme-toggle-dark-icon');
-        let themeToggleLightIcon = document.getElementById('theme-toggle-light-icon');
-        if (localStorage.getItem('color-theme') === 'dark' || (!('color-theme' in localStorage) && window.matchMedia(
-                '(prefers-color-scheme: dark)').matches)) {
-            themeToggleLightIcon.classList.remove('hidden');
-        } else {
-            themeToggleDarkIcon.classList.remove('hidden');
-        }
-        let themeToggleBtn = document.getElementById('theme-toggle');
-        themeToggleBtn.addEventListener('click', function () {
-            themeToggleDarkIcon.classList.toggle('hidden');
-            themeToggleLightIcon.classList.toggle('hidden');
-            if (localStorage.getItem('color-theme')) {
-                if (localStorage.getItem('color-theme') === 'light') {
-                    document.documentElement.classList.add('dark');
-                    localStorage.setItem('color-theme', 'dark');
-                } else {
-                    document.documentElement.classList.remove('dark');
-                    localStorage.setItem('color-theme', 'light');
-                }
-            } else {
-                if (document.documentElement.classList.contains('dark')) {
-                    document.documentElement.classList.remove('dark');
-                    localStorage.setItem('color-theme', 'light');
-                } else {
-                    document.documentElement.classList.add('dark');
-                    localStorage.setItem('color-theme', 'dark');
-                }
-            }
-        });
-    </script>
 </body>
 
 </html>
