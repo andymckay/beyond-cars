@@ -2,7 +2,7 @@ Title: Highways in Vancouver
 Date: 2023-02-07
 Tags: Cities, Vancouver
 Category: Advocacy
-Summary: Why, like most North American cities there isn't a highway to downtown Vancouver
+Summary: Why, unlike most North American cities, there isn't a highway to downtown Vancouver
 
 This was prompted by a (possibly disingenuous) [question on Reddit](https://www.reddit.com/r/vancouver/comments/10u1lr7/how_feasible_do_you_think_it_is_to_have_a_highway/) as to why, unlike Seattle there isn't a highway to downtown... and why don't we just add one. Fortunately this was one of those Reddit moments that gives faith in humanity as people pointed out how terrible that would be.
 

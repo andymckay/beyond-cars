@@ -31,3 +31,8 @@ title = "Induced demand"
 path = "we-arent-amsterdam.html"
 url = "/we-arent-amsterdam.html"
 title = "We aren't Amsterdam"
+
+[[input.files]]
+path = "data.html"
+url = "/data.html"
+title = "Data"
