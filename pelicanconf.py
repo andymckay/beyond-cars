@@ -1,7 +1,6 @@
 AUTHOR = 'Andy McKay'
-SITENAME = 'Beyond Cars'
+SITENAME = 'BEYOND CARS 🌎'
 SITEURL = ''
-SUBTITLE = 'Beyond Cars'
 SUBTEXT = 'About cars and why 🇨🇦 and the 🌎 needs to think beyond our windscreens and a future with fewer cars.'
 COPYRIGHT = '2023 and beyond'
 
