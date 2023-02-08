@@ -7,7 +7,7 @@
     <meta name="generator" content="Pelican" />
     <meta property="og:image:width" content="600" />
     <meta property="og:image" content="/images/background.png" />
-    <title>Average speed cameras</title>
+    <title>Not everyone can drive</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda|Comfortaa" />
     <link rel="stylesheet" type="text/css" href="/theme/css/main.css" />
@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="/theme/css/stork.css">
     <link rel="stylesheet" media="screen and (prefers-color-scheme: dark)"
         href="/theme/css/stork-dark.css">
-<meta name="description" content="BC should embrace average speed cameras as a way to stop deaths on our highways." />
+<meta name="description" content="A common refrain is "not everyone can cycle". But less people can drive than potentially cycle." />
         <link rel="icon" href="/images/icon.svg" />
             <link rel="mask-icon" href="/images/icon.svg" color="#000000"/>
 
@@ -101,10 +101,10 @@
 
 <main>
   <header>
-    <h1 class="font-semibold text-3xl my-2">Average speed cameras</h1>
+    <h1 class="font-semibold text-3xl my-2">Not everyone can drive</h1>
     <footer class="flex text-sm text-zinc-800 dark:text-zinc-400">
       <div class="flex text-xs text-zinc-800 dark:text-zinc-400">
-        <time>February 08, 2023</time>
+        <time>February 09, 2023</time>
         <div>
           <span>&nbsp;·&nbsp;2 min read</span>
         </div>
@@ -130,42 +130,118 @@
               prose-code:font-light
               prose-img:rounded-md
               ">
-    <p>Average speed cameras have been introduced throughout the world as a way of keeping speed under control on highways, but this topic of conversation never comes up in British Columbia.</p>
-<p>The traditional speed camera is one that is at a fixed point and measures cars going past that point. In BC these were called photo radar and had a spotty past. They were introduced and hated, because that's more important that saving peoples lives. David Eby, now our current premier said in 2017:</p>
-<blockquote>
-"We're not considering photo radar. It is wildly unpopular among British Columbians. They hate it. We've heard that loud and clear."
-</blockquote>
-<p><cite>David Eby, <a href="https://www.cbc.ca/news/canada/british-columbia/despite-unpopularity-bringing-photo-radar-back-to-b-c-a-good-idea-expert-says-1.4222131">Source</a></cite></p>
-<p>Average speed cameras measure the time it takes for a vehicle to get from one location to another. This is perfect for a highway, such as the Sea to Sky highway, which is one of the most dangerous highways in BC, with crashes regularly. The Sea to Sky is the road from Vancouver to Squamish and Whistler. It's always been plagued by speeders, from those rushing up and down from Whistler to catch skiing, to just the people commuting from Squamish.</p>
-<p>But it has very few entrances and exits that people use. Horseshoe Bay to Lions Bay, Lions Bay to Squamish and then Squamish to Whistler would be 3 ideal spots to place speed cameras. That's a total of 6 sets of cameras and can ticket people who travel faster than the (sometimes variable) speed limit in that area.</p>
-<p>Do average speed cameras work? Yep.</p>
-<p>Study in the UK:</p>
-<blockquote>
-"...the number of fatal and serious collisions decreases by 36% after average speed cameras are introduced."
-</blockquote>
-<p><cite>RAC Foundation, <a href="https://www.racfoundation.org/research/safety/effectiveness-average-speed-cameras-great-britain">Source</a></cite></p>
-<p>Scotland Minister:</p>
-<blockquote>
-"When we had them on the A77 [highway] back in 2005, fatal and serious casualties dropped by 74 per cent within a really short period of time"
-</blockquote>
-<p><cite>CBC, <a href="https://www.cbc.ca/news/canada/british-columbia/how-average-speed-cameras-could-make-b-c-s-roads-safer-1.4520261">Source</a></cite></p>
-<p>The Lions Bay mayor is asking for them:</p>
-<blockquote>
-"In a presentation that was also given to provincial officials the Mayor states that the MOTI reports that 85% of motorists are traveling between 85-110 km/h through the 60 km/h zone that runs through the community"
-</blockquote>
-<p><cite>Mountain FM, <a href="https://www.mountainfm.com/2017/11/02/lions-bay-mayor-advocating-average-speed-distance-corridors/">Source</a></cite></p>
-<p>Average speed cameras work and have many other advantages, they reduce enforcement costs, reduce insurance premiums and so on which I'll get into other posts. But put simply, they stop people speeding. Speeding is one of the biggest contributor of crashes in BC and also increases the <a href="https://beyondcars.ca/speed-is-always-a-factor.html">chances of fatalities</a>.</p>
-<p>Crash data from ICBC in 2021 <sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>. Contributing factors in fatal crashes:</p>
+    <p>For this I wanted to get some solid data on who can actually drive, so I've got some numbers to back up later discussions. From the age of about ~5 to about ~70 for most people can ride a bike or walk for short trips. There's a group there somewhere in the middle who can ride, walk etc for longer distances.</p>
+<p>However driving is gated by:</p>
 <ul>
-<li>Speed: 27%</li>
-<li>Impairment: 23%</li>
-<li>Distraction: 28%</li>
+<li>Age</li>
+<li>Having a license</li>
+<li>Health conditions</li>
+<li>Economic factors</li>
 </ul>
+<p>If "not everyone can cycle", surely "not everyone can drive"? At Beyond Cars we want people to be able to drive, walk, take the bus or cycle or whatever form of transit they'd like.</p>
+<p>So I compared the numbers from ICBC with Statistics Canada. Spent far too long looking at Tableau and CSV files and putting the data into a <a href="https://github.com/andymckay/beyond-cars-data">GitHub repository</a>. The results for British Columbia are for 2021 <sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>:</p>
+<table>
+<thead>
+<tr>
+<th>Age range</th>
+<th>Number of drivers licenses</th>
+<th>Population</th>
+<th>Percentage without drivers license</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0-15</td>
+<td>0</td>
+<td>766,895</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>16-18</td>
+<td>105,000</td>
+<td>152,265</td>
+<td>31.04%</td>
+</tr>
+<tr>
+<td>19-21</td>
+<td>130,000</td>
+<td>164,715</td>
+<td>21.08%</td>
+</tr>
+<tr>
+<td>22-25</td>
+<td>215,000</td>
+<td>246,915</td>
+<td>12.93%</td>
+</tr>
+<tr>
+<td>26-35</td>
+<td>665,000</td>
+<td>701,700</td>
+<td>5.23%</td>
+</tr>
+<tr>
+<td>36-45</td>
+<td>640,000</td>
+<td>663,070</td>
+<td>3.48%</td>
+</tr>
+<tr>
+<td>46-55</td>
+<td>600,000</td>
+<td>643,580</td>
+<td>6.77%</td>
+</tr>
+<tr>
+<td>56-65</td>
+<td>650,000</td>
+<td>713,420</td>
+<td>8.89%</td>
+</tr>
+<tr>
+<td>66-75</td>
+<td>505,000</td>
+<td>564,145</td>
+<td>10.48%</td>
+</tr>
+<tr>
+<td>76-85</td>
+<td>210,000</td>
+<td>280,175</td>
+<td>25.05%</td>
+</tr>
+<tr>
+<td>86-100</td>
+<td>39,000</td>
+<td>103,950</td>
+<td>62.48%</td>
+</tr>
+<tr>
+<td>All</td>
+<td>3,759,000</td>
+<td>5,000,830</td>
+<td>24.83%</td>
+</tr>
+</tbody>
+</table>
+<p>So the outcome is 24.83% of people do not have a drivers license. However that is obviously skewed at either end with those too young to drive, or those past the age of 86 who are likely to old to be able to drive. In the 26-65 age range we have 7% of British Columbians who have no drivers license. At the other ends of the spectrum we can see the numbers shoot up dramatically.</p>
+<p>How many vehicles are there in British Columbia <sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup>?</p>
+<ul>
+<li>Passenger vehicles: 2,330,014</li>
+<li>Commercial vehicles: 508,278</li>
+</ul>
+<p>So for every person with a driving license, there's 0.62 passenger vehicles for that person <sup id="fnref:3"><a class="footnote-ref" href="#fn:3">3</a></sup>.</p>
 <div class="footnote">
 <hr/>
 <ol>
 <li id="fn:1">
-<p>In 2020 distracted driving overtook speeding as the main contributing factor according to <a href="https://public.tableau.com/app/profile/icbc/viz/QuickStatistics-Contributingfactors/Contributingfactors">ICBC</a>&nbsp;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&larrhk;</a></p>
+<p>It's odd but ICBC's data is consistenly rounded to 5k or 10k people 🤷&zwj;&male;&nbsp;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&larrhk;</a></p>
+</li>
+<li id="fn:2">
+<p><a href="https://public.tableau.com/app/profile/icbc/viz/VehiclePopulation-PassengerVehicles-2021/2021PassengerVehicles">Source</a>&nbsp;<a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">&larrhk;</a></p>
+</li>
+<li id="fn:3">
+<p>In case you were wondering, that's an 11% increase in the number of passenger vehicles since 2017, 5 years ago.&nbsp;<a class="footnote-backref" href="#fnref:3" title="Jump back to footnote 3 in the text">&larrhk;</a></p>
 </li>
 </ol>
 </div>
@@ -187,19 +263,12 @@
       </a>
     </ul>
     <div class="flex w-full my-2 bg-zinc-200 dark:bg-zinc-700 rounded-lg">
-      <div class="w-1/2 hover:bg-zinc-300 dark:hover:bg-zinc-800 rounded-l-lg">
-        <a class="flex flex-col pr-2" href="/not-everyone-can-drive.html">
-          <div class="mx-4 py-2 text-left">
-            <p class="text-zinc-500 dark:text-neutral-400 text-sm">« PREV PAGE</p>
-            <p class="text-left py-1 hover:underline">Not everyone can drive</p>
-          </div>
-        </a>
-      </div>
+      <div class="w-1/2 rounded-l-lg"></div>
       <div class="w-1/2 hover:bg-zinc-300 dark:hover:bg-zinc-800 rounded-r-lg ">
-        <a class="flex flex-col" href="/highways-in-vancouver.html">
+        <a class="flex flex-col" href="/average-speed-cameras.html">
           <div class="text-right mx-4 py-2">
             <p class="text-zinc-500 dark:text-neutral-400 text-sm">NEXT PAGE »</p>
-            <p class="text-right py-1 hover:underline">Highways in Vancouver</p>
+            <p class="text-right py-1 hover:underline">Average speed cameras</p>
           </div>
         </a>
       </div>
@@ -207,7 +276,7 @@
     <div class="flex py-2 rounded-lg justify-center space-x-2 text-xs">
       <ul>
         <a target="_blank" rel="noopener noreferrer" title="twitter" aria-label="share Features on twitter"
-          href="https://twitter.com/intent/tweet/?text=Features&amp;url=/average-speed-cameras.html">
+          href="https://twitter.com/intent/tweet/?text=Features&amp;url=/not-everyone-can-drive.html">
           <li class="bg-gray-900 p-1 text-white rounded-md">
             <i class="fab fa-twitter fa-2x" aria-hidden="true"></i>
           </li>
@@ -215,7 +284,7 @@
       </ul>
       <ul>
         <a target="_blank" rel="noopener noreferrer" title="linkedin" aria-label="share Features on linkedin"
-          href="https://www.linkedin.com/sharing/share-offsite/?url=/average-speed-cameras.html">
+          href="https://www.linkedin.com/sharing/share-offsite/?url=/not-everyone-can-drive.html">
           <li class="bg-gray-900 p-1 text-white rounded-md">
             <i class="fab fa-linkedin fa-2x" aria-hidden="true"></i>
           </li>
@@ -223,7 +292,7 @@
       </ul>
       <ul>
         <a target="_blank" rel="noopener noreferrer" title="reddit" aria-label="share Features on reddit"
-          href="https://reddit.com/submit?url=/average-speed-cameras.html">
+          href="https://reddit.com/submit?url=/not-everyone-can-drive.html">
           <li class="bg-gray-900 p-1 text-white rounded-md">
             <i class="fab fa-reddit fa-2x" aria-hidden="true"></i>
           </li>
@@ -231,7 +300,7 @@
       </ul>
       <ul>
         <a target="_blank" rel="noopener noreferrer" title="facebook" aria-label="share Features on facebook"
-          href="https://facebook.com/sharer/sharer.php?u=/average-speed-cameras.html">
+          href="https://facebook.com/sharer/sharer.php?u=/not-everyone-can-drive.html">
           <li class="bg-gray-900 p-1 text-white rounded-md">
             <i class="fab fa-facebook fa-2x" aria-hidden="true"></i>
           </li>
@@ -239,7 +308,7 @@
       </ul>
       <ul>
         <a target="_blank" rel="noopener noreferrer" title="whatsapp" aria-label="share Features on whatsapp"
-          href="https://api.whatsapp.com/send?text=Features - /average-speed-cameras.html">
+          href="https://api.whatsapp.com/send?text=Features - /not-everyone-can-drive.html">
           <li class="bg-gray-900 p-1 text-white rounded-md">
             <i class="fab fa-whatsapp fa-2x" aria-hidden="true"></i>
           </li>
@@ -247,7 +316,7 @@
       </ul>
       <ul>
         <a target="_blank" rel="noopener noreferrer" title="telegram" aria-label="share Features on telegram"
-          href="https://telegram.me/share/url?text=Features&amp;url=/average-speed-cameras.html">
+          href="https://telegram.me/share/url?text=Features&amp;url=/not-everyone-can-drive.html">
           <li class="bg-gray-900 p-1 text-white rounded-md">
             <i class="fab fa-telegram fa-2x" aria-hidden="true"></i>
           </li>
