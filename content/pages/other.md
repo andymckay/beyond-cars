@@ -14,7 +14,13 @@ Some of the other people on the internet who are advocating for change. No you a
 ### People:
 
 * [Brent Toderian](https://mastodon.social/@BrentToderian@mastodon.online)
+
+### Vancouver
+* [The HUB](https://bikehub.ca/)
+* [BC Cycling Coalition](https://bccycling.ca/)
+* [Love the lane](https://lovethelane.ca/)
 * [Martyn Schmoll](https://twitter.com/martynschmoll)
+* [Lucy in Canada](https://mastodon.social/@Lucyincanada@c.imc)
 
 ### Socials:
 
