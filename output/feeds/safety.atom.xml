@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>BEYOND CARS 🌎 - Safety</title><link href="https://beyondcars.ca/" rel="alternate"></link><link href="https://beyondcars.ca/feeds/safety.atom.xml" rel="self"></link><id>https://beyondcars.ca/</id><updated>2023-02-02T00:00:00-08:00</updated><entry><title>Speed is always a factor</title><link href="https://beyondcars.ca/speed-is-always-a-factor.html" rel="alternate"></link><published>2023-02-02T00:00:00-08:00</published><updated>2023-02-02T00:00:00-08:00</updated><author><name>Andy McKay</name></author><id>tag:beyondcars.ca,2023-02-02:/speed-is-always-a-factor.html</id><summary type="html">&lt;p&gt;When people say "speed wasn't a factor" in a collision, they are misleading you. It's always a factor.&lt;/p&gt;</summary><content type="html">&lt;p&gt;You will often the phrase in the press "Speed wasn't a factor" after a crash. What they are really saying is that the driver was (given available evidence) &lt;strong&gt;not going excessively beyond the speed limit&lt;/strong&gt;. As it turns out &lt;strong&gt;speed is always a factor&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;There are a few things that determine if you will survive collision with an object, simplified they are its: &lt;em&gt;mass&lt;/em&gt;, &lt;em&gt;velocity&lt;/em&gt; and &lt;em&gt;shape&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;We'll leave &lt;em&gt;shape&lt;/em&gt; out of this for the moment, because that's a different subject. Let's focus on the amount of kinetic energy that impacts an object when it's hit by a vehicle. We'll also ignore reaction times from all parties and other things.&lt;/p&gt;
+&lt;p&gt;Focusing on mass and velocity the amount of kinetic energy is:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;kinetic energy = 0.5 * mass * velocity&lt;sup&gt;2&lt;/sup&gt;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Mass has an effect on kinetic energy, but velocity has a much bigger effect, because it's squared.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A 10kg weight travelling at 1 km/h has 0.38 Joules of kinetic energy. &lt;/li&gt;
+&lt;li&gt;A 1kg weight travelling at 10km/h has 3.8 Joules of kinetic energy.&lt;/li&gt;
+&lt;li&gt;A 0.016kg bullet travelling at 1,296km/h has 1036.8 Joules of kinetic energy &lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="#fn:1"&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Bullets don't weigh much, but they travel really, really, really fast and kill people.&lt;/p&gt;
+&lt;p&gt;Or to put it another way, would you rather get hit by a truck travelling 1km/h or a car travelling 100km/h? The car will kill you, the truck might knock you over.&lt;/p&gt;
+&lt;p&gt;Regardless of what the speed limit is all that matters is how fast that vehicle is moving when it hits you. Survivability rates drop dramatically for a pedestrian hit by a car as speed increases &lt;sup id="fnref:2"&gt;&lt;a class="footnote-ref" href="#fn:2"&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;At 30km/h your chance of surviving is 90%.&lt;/li&gt;
+&lt;li&gt;At 40km/h your chance of surviving is 60%.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;At 50km/h your chance of surviving is 10%&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The difference between 30km/h and 50km/h is basically the difference between life and death. &lt;strong&gt;Speed is always a factor&lt;/strong&gt; and it will determine if you survive a collision or not.&lt;/p&gt;
+&lt;p&gt;When the police or press say "speed was not a factor", what they are really saying is that society, traffic engineers and politicians have already decided that convenience of drivers outweighs your chance of surviving a collision.&lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr/&gt;
+&lt;ol&gt;
+&lt;li id="fn:1"&gt;
+&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Physics_of_firearms#Force"&gt;Wikipedia&lt;/a&gt;&amp;nbsp;&lt;a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text"&gt;&amp;larrhk;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:2"&gt;
+&lt;p&gt;&lt;a href="https://roadsafety.transport.nsw.gov.au/speeding/index.html"&gt;Transport NSW&lt;/a&gt;&amp;nbsp;&lt;a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text"&gt;&amp;larrhk;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</content><category term="Safety"></category><category term="Speed"></category><category term="Safety"></category></entry></feed>

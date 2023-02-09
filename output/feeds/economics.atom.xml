@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>BEYOND CARS 🌎 - Economics</title><link href="https://beyondcars.ca/" rel="alternate"></link><link href="https://beyondcars.ca/feeds/economics.atom.xml" rel="self"></link><id>https://beyondcars.ca/</id><updated>2023-02-01T00:00:00-08:00</updated><entry><title>Induced demand</title><link href="https://beyondcars.ca/induced-demand.html" rel="alternate"></link><published>2023-02-01T00:00:00-08:00</published><updated>2023-02-01T00:00:00-08:00</updated><author><name>Andy McKay</name></author><id>tag:beyondcars.ca,2023-02-01:/induced-demand.html</id><summary type="html">&lt;p&gt;Build it and they will come. That will suck if it happens to involve cars. It's great if it involves transit.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Induced demand in other words:&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://beyondcars.ca/images/if-you-build-it.png"/&gt;&lt;/p&gt;
+&lt;p&gt;Basically when you build something and provide more capacity, like roads, bike lanes, trains, subways, people will use them. By building infrastructure you've induced people to start using it, you've induced demand for that thing. Over time, people's habits change, people change their behaviour to use that infrastructure &lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="#fn:1"&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;If you are familiar with Vancouver you can see this happening as condo towers spring up around Skytrain stations. The Cambie, Oak and Marien (Canada Line), Brentwood (Millenium Line) and so on are seeing huge increases in densities of population because they are on the Skytrain providing quick and cheap access to other parts of Vancouver. People want to live near the station to use the line, so condo towers are going up near the stations and ridership is going up.&lt;/p&gt;
+&lt;p&gt;The same is true with roads, build more roads and more car drivers will use them. People will build new homes and businesses to make use of the infrastructure.&lt;/p&gt;
+&lt;p&gt;The difference is this:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cars are bad at scaling to large numbers of users. Inducing demand leads to congestion again.&lt;/li&gt;
+&lt;li&gt;Transit is designed to scale to large numbers of users. Inducing demand leads to better services.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nobody wants their buses to be packed or trains to be full all the time. But when buses don't have enough people on them, they get cut. Transit is designed to scale, cars on roads are not. &lt;/p&gt;
+&lt;p&gt;Here's an Australian TV show which sums it up well:&lt;/p&gt;
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/pCzCJzwrB_c" title="YouTube video player" width="560"&gt;&lt;/iframe&gt;
+&lt;p&gt;Here's a video from Toronto explaining the difference between induced demand for cars and transit:&lt;/p&gt;
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/8wlld3Z9wRc" title="YouTube video player" width="560"&gt;&lt;/iframe&gt;
+&lt;div class="footnote"&gt;
+&lt;hr/&gt;
+&lt;ol&gt;
+&lt;li id="fn:1"&gt;
+&lt;p&gt;Within reason. Building a highway in the middle of nowhere will not make people move there.&amp;nbsp;&lt;a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text"&gt;&amp;larrhk;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</content><category term="Economics"></category><category term="Cities"></category><category term="Economics"></category></entry></feed>
