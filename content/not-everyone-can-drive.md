@@ -15,7 +15,7 @@ However driving is gated by:
 
 If "not everyone can cycle", surely "not everyone can drive"? At Beyond Cars we want people to be able to drive, walk, take the bus or cycle or whatever form of transit they'd like.
 
-So I compared the numbers from ICBC with Statistics Canada. Spent far too long looking at Tableau and CSV files and putting the data into a <a href="https://github.com/andymckay/beyond-cars-data">GitHub repository</a>. The results for British Columbia are for 2021 [^1]:
+So we compared the numbers from ICBC with Statistics Canada. Spent far too long looking at Tableau and CSV files and putting the data into a <a href="https://github.com/andymckay/beyond-cars-data">GitHub repository</a>. The results for British Columbia are for 2021 [^1]:
 
 |Age range|Number of drivers licenses|Population|Percentage without drivers license
 |-|-|-|-|
