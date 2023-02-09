@@ -2,6 +2,7 @@ Title: Not everyone can drive
 Date: 2023-02-09
 Tags: Speed, Injuries
 Category: Dangerous Driving
+Image: multipass.jpg
 Summary: A common refrain is "not everyone can cycle". But less people can drive than potentially cycle.
 
 For this I wanted to get some solid data on who can actually drive, so I've got some numbers to back up later discussions. From the age of about ~5 to about ~70 for most people can ride a bike or walk for short trips. There's a group there somewhere in the middle who can ride, walk etc for longer distances.
