@@ -13,6 +13,11 @@ url = "/pages/others.html"
 title = "Others"
 
 [[input.files]]
+path = "how-cycling-is-going-in-the-district-of-north-vancouver.html"
+url = "/how-cycling-is-going-in-the-district-of-north-vancouver.html"
+title = "How cycling is going in the District of North Vancouver"
+
+[[input.files]]
 path = "not-everyone-can-drive.html"
 url = "/not-everyone-can-drive.html"
 title = "Not everyone can drive"
