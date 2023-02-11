@@ -1,6 +1,6 @@
 AUTHOR = 'Andy McKay'
 SITENAME = 'BEYOND CARS 🌎'
-SITEURL = ''
+SITEURL = 'http://localhost:8000'
 SUBTEXT = 'About cars and why 🇨🇦 and the 🌎 needs to think beyond our windscreens and a future with fewer cars.'
 COPYRIGHT = '2023 and beyond'
 
@@ -8,7 +8,7 @@ PATH = 'content'
 THEME = 'themes/Papyrus'
 THEME_STATIC_PATHS = ['static']
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['readtime', 'search', 'neighbors', 'pelican-toc']
+PLUGINS = ['readtime', 'search', 'neighbors']
 
 DISPLAY_PAGES_ON_MENU = True
 DIRECT_TEMPLATES = (('index', 'search', 'tags', 'categories', 'archives',))
@@ -31,13 +31,6 @@ TOC = {
 TIMEZONE = 'America/Vancouver'
 
 DEFAULT_LANG = 'en'
-
-# Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
 
 # Social widgets
 SOCIAL = (

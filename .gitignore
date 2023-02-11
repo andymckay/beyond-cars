@@ -1,4 +1,5 @@
 staging/*
 themes/*
 pelican-plugins/*
+devserver/*
 .DS_Store
