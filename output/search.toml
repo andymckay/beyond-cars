@@ -13,6 +13,11 @@ url = "/pages/others.html"
 title = "Others"
 
 [[input.files]]
+path = "how-social-norms-hide-a-public-health-hazard.html"
+url = "/how-social-norms-hide-a-public-health-hazard.html"
+title = "How social norms hide a public health hazard"
+
+[[input.files]]
 path = "reform-the-mva.html"
 url = "/reform-the-mva.html"
 title = "Reform the MVA"
