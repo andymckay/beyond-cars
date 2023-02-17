@@ -1,8 +1,8 @@
 Title: How social norms hide a public health hazard
 Date: 2023-02-17
-Tags: Infrastructure, Politics, Parking, Municipal
-Category: North Vancouver
-Image: mountains.jpg
+Tags: Infrastructure, Politics, Psychology
+Category: Psychology
+Image: rain.jpg
 Summary: Cars mess with your brain and make what's normally unacceptable socially acceptable.
 
 Motornormativity is the term given in a [recent study by Ian Walker, Alan Tapp and Adrian Davis](https://psyarxiv.com/egnmj). It's a phenomenon to describe how the unconcious biases have favour cars. [This podcast](https://thewaroncars.org/2023/01/31/car-brain-with-dr-ian-walker/) gives a good dive into the subject and there's a great [Twitter thread from the author](https://twitter.com/ianwalker/status/1615248166256869376).
