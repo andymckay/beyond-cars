@@ -20,7 +20,7 @@ Some of the other people on the internet who are advocating for change. No you a
 * [BC Cycling Coalition](https://bccycling.ca/)
 * [Love the lane](https://lovethelane.ca/)
 * [Martyn Schmoll](https://twitter.com/martynschmoll)
-* [Lucy in Canada](https://mastodon.social/@Lucyincanada@c.imc)
+* [Lucy in Canada](https://mastodon.social/@Lucyincanada@c.im)
 
 ### Socials:
 
