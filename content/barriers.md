@@ -18,7 +18,7 @@ Car drivers make mistakes and the damage caused in those mistakes need mitigatin
 
 But look at that image again and you'll notice between the car lanes and barriers is the bike lane. The bike lane is protected with a peice of paint, it doesn't get a barrier. 
 
-This is a pattern you see all over the place. On the ride to the ferry terminal at Tswassen 👇
+This is a pattern you see all over the place. On causeway to the ferry terminal at Tsawwassen 👇
 
 <img src="/images/ferry-causeway.png">
 
