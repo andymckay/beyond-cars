@@ -34,6 +34,6 @@ Yet the most vulnerable road users are not protected in any manner from the exac
 
 All that needs to happen is to move the *movable barrier* to the left and provide a seperation between the car lane and bike lane.
 
-When you see a barrier placement
+When you see a barrier placement like this, ask yourself what the politicians and traffic engineers who designed and approved this were thinking of and who they care about.
 
 [^1]: Not all barriers are the same, but the most common is [Jersey barriers](https://en.wikipedia.org/wiki/Jersey_barrier), first used in New Jersey in 1950s and have a [particular geometry](https://highways.dot.gov/public-roads/marchapril-2000/basics-concrete-barriers).
