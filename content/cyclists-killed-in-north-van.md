@@ -22,16 +22,4 @@ Where are the most dangerous places to ride? For North Vancouver from 2017 to 20
 
 [Source](https://public.tableau.com/app/profile/icbc/viz/LowerMainlandCrashes/LMDashboard).
 
-For crashes involving cyclists, the worst places are:
-
-|Location|Number|
-|-|-|
-|Lynn Avenue & Main Street|11|
-|Main Street & Mountain Highway|8|
-|Dollarton Hwy & Riverside|6|
-|Lytton Street & Mount Seymour Parkway|6|
-|Mackay Ave & Marine Drive|6|
-
-[Source](https://public.tableau.com/app/profile/icbc/viz/BC-CrashesinvolvingCyclists-/CyclistsDashboard)
-
 There was lots I was going to write about today, but there's nothing more to say when this happens. My heart goes out to the family and friends of the involved today.
