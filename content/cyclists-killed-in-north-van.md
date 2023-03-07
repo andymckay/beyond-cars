@@ -31,5 +31,7 @@ There was lots I was going to write about today, but there's nothing more to say
 ---
 
 Updates:
+
 * Added in quote from CTVNews.
+
 * Added in Burnaby incident.
