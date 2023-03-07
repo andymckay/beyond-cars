@@ -6,6 +6,9 @@ Summary: People keep getting killed on our streets.
 
 Mar 6, 2023: Person killed at 23rd and Lonsdale by a person driving a **dump truck driver** [Source](https://www.nsnews.com/local-news/cyclist-in-serious-condition-after-collision-with-dump-truck-in-north-vancouver-6656014)
 
+<blockquote>"According to data by ICBC, 136 crashes were reported at that intersection over a five-year period. Two involved cyclists and were fatal, not including the most recent tragedy."</blockquote> 
+<cite>[Source](https://bc.ctvnews.ca/cyclist-killed-in-serious-collision-north-vancouver-rcmp-say-victim-was-local-woman-1.6301190)</cite>
+
 Also:
 
 * July 6, 2022: Person seriously injured by **dump truck driver** turning right in Victoria [Source](https://globalnews.ca/news/8971773/victoria-bike-crash-sparks-renewed-calls-for-safety-bars-on-trucks/)
