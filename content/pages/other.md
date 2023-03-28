@@ -15,6 +15,7 @@ Some of the other people on the internet who are advocating for change. No you a
 ### People:
 
 * [Brent Toderian](https://mastodon.social/@BrentToderian@mastodon.online)
+* [Dave Walker](https://davewalker.com/)
 
 ### Vancouver
 * [The HUB](https://bikehub.ca/)

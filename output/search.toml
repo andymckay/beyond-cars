@@ -18,6 +18,11 @@ url = "/barriers-save-lives.html"
 title = "Barriers save lives"
 
 [[input.files]]
+path = "drivers-dont-have-to-justify.html"
+url = "/drivers-dont-have-to-justify.html"
+title = "Drivers don't have to justify"
+
+[[input.files]]
 path = "car-subsidies.html"
 url = "/car-subsidies.html"
 title = "Car subsidies"
