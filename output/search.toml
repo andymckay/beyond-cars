@@ -13,14 +13,14 @@ url = "/pages/others.html"
 title = "Others"
 
 [[input.files]]
-path = "barriers-save-lives.html"
-url = "/barriers-save-lives.html"
-title = "Barriers save lives"
-
-[[input.files]]
 path = "drivers-dont-have-to-justify.html"
 url = "/drivers-dont-have-to-justify.html"
 title = "Drivers don't have to justify"
+
+[[input.files]]
+path = "barriers-save-lives.html"
+url = "/barriers-save-lives.html"
+title = "Barriers save lives"
 
 [[input.files]]
 path = "car-subsidies.html"

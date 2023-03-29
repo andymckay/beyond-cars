@@ -1,5 +1,5 @@
 Title: Drivers don't have to justify
-Date: 2023-03-27
+Date: 2023-03-28
 Tags: Politics
 Category: Vancouver
 Summary: Drivers never have to justify why they'd drive on a road, so why do cyclists have to?
