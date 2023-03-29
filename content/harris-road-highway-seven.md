@@ -10,11 +10,17 @@ Currently it looks like this:
 
 <img src="{static}/images/harris-road-maps.jpg" />
 
-And here's the proposal (with added arrows):
+And here's the proposal (with arrows I added):
 
 <img src="{static}/images/harris-road-proposal.jpg" />
 
 The speed limit on Highway 7 is 80km/h, so given the lack of automated enforcement of speed limits, we can easily predict that's at least 90km/h to 100km/h.
+
+### What's this trying to do?
+
+It sounds like its trying to shift traffic from one intersection (the traffic light in the top left of the picture) to the new choices. But I can't spot any suggestion that it will actually limit the ability of traffic to turn left or right at the original intersection.
+
+So in this case a car travelling west will go past the traffic lights, then turn right and double back on itself to get to another set of traffic lights. I'm not sure that will work as planned.
 
 ### Crosswalk of doom
 
