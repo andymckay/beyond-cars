@@ -44,14 +44,14 @@ On the south side there is a multi-user path that travels for a couple of blocks
 
 Want to cross the street, you've got a good long walk as you circle around and then over a bridge and then circle down again. This is classic prioritising the cars over everyone else. So people walking have to go long ways out of their ways to ensure that drivers can get to really fast all the time.
 
-### Safety of people not a priority
+### Safety of people other than car drivers *not a priority*
 
 In project benefits they state:
 
 <blockquote>Increase safety for drivers by shifting northbound and eastbound left turns to alternate locations with more capacity to reduce the likelihood of incidents at the intersection</blockquote>
 <cite><a href="https://www2.gov.bc.ca/gov/content/transportation-projects/other-transportation-projects/highway7-harris-improvements">Source</a></cite>
 
-The do not state that safety of people outside of cars is a priority.
+They do not state that safety of people outside of cars is a priority.
 
 ---
 
