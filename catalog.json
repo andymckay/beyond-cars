@@ -2,7 +2,7 @@
   "name": "Beyond Cars",
   "description": "Pelican powered blog hosted using GitHub pages at [Beyond Cars](https://beyondcars.ca)",
   "type": "application",
-  "level": 1,
+  "priority": 1,
   "ownership": {
     "url": "https://clearwind.ca"
   },
