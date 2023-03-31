@@ -33,9 +33,9 @@ Notable quotes:
 
 And let's check some of those greatest hits of why we can't do this:
 
-* Emergency vehicles can now get places faster "In a pinch, the bike path is wide enough to serve as a traffic-free route for emergency vehicles; an analysis recently showed that this has helped the city lower fire response times to under seven minutes for the first time in more than a decade." [^1]
-* Delivery of goods "one of Paris’ heavyweight bicycle delivery companies, told me that bike trips shave five minutes off the average delivery time" [^1]
-* Bike paths hurt businesses "All the figures show the opposite. Every time we do experiments, we see that first, a big majority of their clients don’t use a car to come to their place, and then, people who use bikes and on foot consume more than people in cars" [^4]
+* **Emergency vehicles can now get places faster** "In a pinch, the bike path is wide enough to serve as a traffic-free route for emergency vehicles; an analysis recently showed that this has helped the city lower fire response times to under seven minutes for the first time in more than a decade." [^1]
+* **Delivery of goods** "one of Paris’ heavyweight bicycle delivery companies, told me that bike trips shave five minutes off the average delivery time" [^1]
+* **Bike paths hurt businesses** "All the figures show the opposite. Every time we do experiments, we see that first, a big majority of their clients don't use a car to come to their place, and then, people who use bikes and on foot consume more than people in cars" [^4]
 
 [Just like Amsterdam](https://beyondcars.ca/we-arent-amsterdam.html) this is a choice that Paris has made and I can't wait to visit the new Paris.
 
