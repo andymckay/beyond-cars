@@ -3,8 +3,8 @@
   "description": "Pelican powered blog hosted using GitHub pages at [Beyond Cars](https://beyondcars.ca)",
   "type": "application",
   "priority": 1,
-  "ownership": {
-    "url": "https://clearwind.ca"
+  "meta": {
+    "owner": "https://clearwind.ca"
   },
   "dependencies": [
     "rss-to-email"
