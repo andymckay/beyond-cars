@@ -26,6 +26,7 @@ Notable changes:
 * "intends to remove over half of the parking spaces in Paris by the end of her four-year term in office" (70,000 out of 140,000 total) [^3]
 
 Notable quotes:
+
 * "It is out of the question that we let ourselves get invaded by cars and pollution." [^1]
 * "The redistribution of public space is a policy of social redistribution. Fifty percent of public space is occupied by private cars, which are used mostly by the richest, and mostly by men, because it’s mostly men who drive, and so in total, the richest men are using half the public space. So if we give the space to walking, biking, and public transit, you give back public space to the categories of people who today are deprived."
 * "Children today, we tell them either to be at school, or at home, or at the park, and they’ve disappeared from the street. We want to bring kids back to the street."
