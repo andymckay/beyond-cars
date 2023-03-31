@@ -4,7 +4,7 @@
   "type": "application",
   "priority": 1,
   "meta": {
-    "owner": "https://clearwind.ca"
+    "owner_url": "https://clearwind.ca"
   },
   "dependencies": [
     "rss-to-email"
