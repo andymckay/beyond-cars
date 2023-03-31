@@ -39,8 +39,6 @@ And let's check some of those greatest hits of why we can't do this:
 
 [Just like Amsterdam](https://beyondcars.ca/we-arent-amsterdam.html) this is a choice that Paris has made and I can't wait to visit the new Paris.
 
----
-
 [^1]: [Slate](https://slate.com/business/2023/03/paris-car-ban-bikes-cycling-history-france.html)
 [^2]: [Guardian](https://www.theguardian.com/world/2021/jan/10/)
 [^3]: [Wikipedia](https://en.wikipedia.org/wiki/Anne_Hidalgo)
