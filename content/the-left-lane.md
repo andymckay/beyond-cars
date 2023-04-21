@@ -14,7 +14,9 @@ Eventually you'll get multiple replies:
 
 *"Move over to the right, it's the law."*
 
-Essentially it's all the drivers fault for y'know driving at the speed limit and not being intimidated and bullied by those who want to speed. They'll even go as far to claim that it's all the driver in the left hand lane's fault because they haven't moved over, which the MVA says they should. The law (in BC) says:
+The suggestion is that it's the drivers fault for driving at the speed limit. They are being intimidated by those who want to speed. They'll claim that it's the driver in the left hand lane's fault because they haven't moved over, which the MVA says they should. 
+
+## The law
 
 <blockquote>
 (3) A driver of a vehicle in the leftmost lane must exit the lane on the approach of another vehicle in that lane, if it is safe to do so, except when<br>
@@ -25,29 +27,38 @@ Essentially it's all the drivers fault for y'know driving at the speed limit and
 </blockquote>
 <cite><a href="https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_05">BC Motor Vehicle Act</a></cite>
 
-When it is safe, drivers in the left hand lane should move over to the right as per the conditions. But it's up to that driver to do so at their discretion, not the bully driving behind them. Because we all know it's about the law. It's about that driver wanting to go as fast as they want, until they meet another car, repeat the process and so on. There are two things going wrong here:
+When it is safe, drivers in the left hand lane should move over to the right as per the conditions. But it's up to that driver to do so at their discretion, not the driver behind them. 
+
+We all know it's not about the law. It's about that driver wanting to go as fast as they want, until they meet another car, repeat the process and so on. There are two things going wrong here:
 
 * A driver speeding, acting aggressive or being impatient.
 * A driver not moving over to the right.
 
-Which one is more dangerous? The driver not moving over to the right would not have be doing anything wrong, if it wasn't for the aggressive driver speeding. **Because the driver in the left hand lane wouldn't be blocking them if the aggressive was driving at the speed limit. The driver speeding is more dangerous.**
+## Which is more dangerous
+
+The driver staying to the left is not causing a dangerous environment. The situation is created by the driver speeding, because if everyone was driving at the speed limit. It doesn't matter what who's in what lane.
+
+This seems to be backed up by legal responses:
 
 <blockquote>
 One difficulty that I faced was a traffic court justice that told me not to bring fail to keep right tickets into her court unless the driver was traveling less than the posted speed limit. If they were following the limit, she would not convict.
 </blockquote>
 <cite><a href="https://www.drivesmartbc.ca/lanes/left-lane-blockers">Drive Smart BC</a><cite>
 
-Let's look at it another way. 
+The number of accidents:
 
 * A contributing factor in [27% of crashes in BC is caused by speed](https://public.tableau.com/app/profile/icbc/viz/QuickStatistics-Contributingfactors/Contributingfactors). Drivers in the left lane is not mentioned as cause.
+
+The way enforcement is applied:
+
 * In 2021 **222,603** tickets were issued for [speeding in BC](https://public.tableau.com/app/profile/icbc/viz/Contraventions-2021/2021Speeding) [^1]
 * In 2021 **60** tickets were issued for [using the left most lane](https://public.tableau.com/app/profile/icbc/viz/Contraventions-2021/2021Contraventions) [^2]
 
-Or to put this graphically, the number of tickets issued in BC:
-
 <img src="{static}/images/speeding-vs-left-lane.png" />
 
-The police, the courts and ICBC see that speeding is the problem. These are the ones that help people after an accident, they know what's going. And it's the speeders, the ones who are impatient and bully other drivers who are the problem, not the ones driving at the speed limit. Almost 1/3 of accidents have speeding as contributing factor and the police **ticket 3,710 times more people for speeding than they do for people being in the left hand lane**.
+## Speeding is the problem
+
+The police, the courts and ICBC see that speeding is the problem. These groups are the ones that help people after an accident, they know what's going. And it's the speeders, the ones who are impatient with other drivers who are the problem - not the ones driving at the speed limit. Almost 1/3 of accidents have speeding as contributing factor and the police **ticket 3,710 times more people for speeding than they do for people being in the left hand lane**.
 
 One of these problems is much bigger than the other.
 
