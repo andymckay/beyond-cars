@@ -47,7 +47,7 @@ One difficulty that I faced was a traffic court justice that told me not to brin
 
 The number of accidents:
 
-* A contributing factor in [27% of crashes in BC is caused by speed](https://public.tableau.com/app/profile/icbc/viz/QuickStatistics-Contributingfactors/Contributingfactors). Drivers in the left lane is not mentioned as cause.
+* A contributing factor in [27% of crashes in BC is speed](https://public.tableau.com/app/profile/icbc/viz/QuickStatistics-Contributingfactors/Contributingfactors). Drivers in the left lane is not mentioned as cause.
 
 The way enforcement is applied:
 
