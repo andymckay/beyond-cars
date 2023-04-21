@@ -51,7 +51,5 @@ The police, the courts and ICBC see that speeding is the problem. These are the 
 
 One of these problems is much bigger than the other.
 
----
-
 [^1]: Sections 146 Speed limits, 147 Schools and playgrounds, 148 Excessive speeding etc... see the [MVA](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_05) for more definitions.
 [^2]: That's section 151.1 of the [MVA](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_05). Set the section number filter to 151.13 to see this.
