@@ -1,5 +1,5 @@
 Title: How it's going in Pontevedra
-Date: 2023-06-08
+Date: 2023-05-08
 Tags: Environment, Cities, Safety
 Category: Cities
 Summary: In 1999 the city banned most cars from it's city centre. And it's doing just great.
