@@ -26,13 +26,11 @@ This is really interesting for a few reasons and we love ❤️ it:
 
 * It rewards good behaviour.
 
-Sounds fantastic and much more effective than a sign which measures your speed and then shows you a happy or sad face.
+Sounds fantastic and much more effective than a sign which measures your speed and then shows you a happy or sad face [^1].
 
 Hattip to [Cameron MacLeod](https://mastodon.social/@c_9@mstdn.ca) for the toot pointing to the article.
 
 
----
-
-[^1] [Youtube video](https://youtu.be/1IYr-aoI7ls) with rather annoying music.
+[^1]: [Youtube video](https://youtu.be/1IYr-aoI7ls) with rather annoying music.
 
 
