@@ -18,6 +18,12 @@ I live in Vancouver British Columbia, Canada 🇨🇦 so a lot of the content wi
 
 That's what this site is about.
 
+---
 
+On every post I try always link to sources, link to legal documents and statistics whereever I can find them. This is important to me because I believe if you are going to advocate for a point of view, that should be based in fact, not opinions or feelings. Unlike advertising and the future that car customers are sold on.
 
+Naturally I get some fantastic push back from people on social media, so I'm going to start posting some of best or funniest here:
 
+*"It's an opinion piece on a trashy website"* Sep 7, 2023
+
+*"You are the absolute worst type of person"* Sep 6, 2023
