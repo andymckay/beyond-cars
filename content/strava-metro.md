@@ -1,5 +1,5 @@
 Title: Strava all the things
-Date: 2023-08-07
+Date: 2023-09-07
 Tags: Infrastructure, Politics, Transit, Municipal
 Category: Positive Change
 Summary: Governments use Strava data, by recording your trips you help advocate.
