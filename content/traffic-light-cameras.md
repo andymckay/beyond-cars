@@ -30,6 +30,7 @@ Sounds fantastic and much more effective than a sign which measures your speed a
 
 Hattip to [Cameron MacLeod](https://mastodon.social/@c_9@mstdn.ca) for the toot pointing to the article.
 
+**Update**: because someone in Government wasn't informed, the project in Quebec has been stopped.
 
 [^1]: [Youtube video](https://youtu.be/1IYr-aoI7ls) with rather annoying music.
 
