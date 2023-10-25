@@ -26,14 +26,14 @@ The pedestrian could have been anyone of any age, in bright neon with lights and
 <blockquote>"Mounties said they put out a road safety message every year with advice for pedestrians, cyclists and drivers."</blockquote>
 <cite><a href="https://www.cbc.ca/news/canada/british-columbia/richmond-rcmp-pedestrian-safety-1.6998392">Source</a></cite>
 
-And herein lies the problem. *Every year* the police and insurance companies do their campaigns to try and stop pedestrians and cyclists being injured and killed. *Every year* the numbers stay roughly the same. We've average 264 deaths a year on roads in BC since 2018, with 270 deaths in 2022.
+And herein lies the problem. *Every year* the police and insurance companies do their campaigns to try and stop pedestrians and cyclists being injured and killed. *Every year* the numbers stay roughly the same. There are an average of 264 deaths a year on roads in BC since 2018, with 270 deaths in 2022.
 
 <blockquote>"They can take their toll mentally on everyone involved. Many of them are entirely preventable."</blockquote>
 <cite><a href="https://www.cbc.ca/news/canada/british-columbia/richmond-rcmp-pedestrian-safety-1.6998392">Source</a></cite>
 
-The RCMP then have a list of things pedestrians can do. Drivers? Stop using phones, which is illegal.
+The RCMP then list things pedestrians can do. The list for drivers is shorter - stop using phones, which is already illegal.
 
-If they are preventable how about:
+If the accidents are preventable how about we work on preventing them by:
 
 * We paint cars really bright colours so people can see them, no more black cars in winter.
 * We remove all music and simplify displays in cars, they need to be able to hear what's going on.
