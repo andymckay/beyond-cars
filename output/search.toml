@@ -13,6 +13,11 @@ url = "/pages/others.html"
 title = "Others"
 
 [[input.files]]
+path = "slower-speed-limits-on-mt-seymour-parkway.html"
+url = "/slower-speed-limits-on-mt-seymour-parkway.html"
+title = "Slower speed limits on Mt. Seymour Parkway"
+
+[[input.files]]
 path = "richmond-rcmp-victim-blaming-video.html"
 url = "/richmond-rcmp-victim-blaming-video.html"
 title = "Richmond RCMP victim blaming video"
