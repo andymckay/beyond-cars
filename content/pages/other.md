@@ -32,3 +32,4 @@ Some of the other people on the internet who are advocating for change. No you a
 ### Books:
 
 * [There Are No Accidents](https://www.simonandschuster.com/books/There-Are-No-Accidents/Jessie-Singer/9781982129668)
+* [Killed By A Traffic Engineer](https://www.amazon.ca/Killed-Traffic-Engineer-Shattering-Transportation/dp/1642833304)
