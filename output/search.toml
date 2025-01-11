@@ -13,6 +13,11 @@ url = "/pages/others.html"
 title = "Others"
 
 [[input.files]]
+path = "athens-to-freiburg.html"
+url = "/athens-to-freiburg.html"
+title = "Athens to Freiburg"
+
+[[input.files]]
 path = "slower-speed-limits-on-mt-seymour-parkway.html"
 url = "/slower-speed-limits-on-mt-seymour-parkway.html"
 title = "Slower speed limits on Mt. Seymour Parkway"
