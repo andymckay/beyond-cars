@@ -13,7 +13,7 @@ In the following series of articles I'll try to dive into a few things:
 * The Translink gas levy (relevant only for people in the lower mainland)
 * The [Federal Gas Tax Fund](/the-canada-community-building-fund.html)
 * Municipal funding of road infrastructure
-* Provinicial and Federal Government funding of road infrastructure
+* Provincial and Federal Government funding of road infrastructure
 * The costs of ongoing maintenance
 * The costs of capital projects
 
