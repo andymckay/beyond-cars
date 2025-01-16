@@ -14,6 +14,8 @@ In the following series of articles I'll try to dive into a few things:
 * The [Federal Gas Tax Fund](/funding-the-federal-gas-tax-fund.html)
 * Municipal funding of road infrastructure
 * Provinicial and Federal Government funding of road infrastructure
+* The costs of ongoing maintenance
+* The costs of capital projects
 
 And anything else you think might be relevant. I'd like to point out I'm not an accountant, or expert on government funding, just someone trying to understand how all this funding works. I'd 💚 any contributions, corrections or help anyone can provide. This blog is completely [open source and contributors are more than welcome](https://github.com/andymckay/beyond-cars/).
 

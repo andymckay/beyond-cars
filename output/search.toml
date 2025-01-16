@@ -13,6 +13,11 @@ url = "/pages/others.html"
 title = "Others"
 
 [[input.files]]
+path = "the-federal-gas-tax-fund.html"
+url = "/the-federal-gas-tax-fund.html"
+title = "The Federal Gas Tax Fund"
+
+[[input.files]]
 path = "funding-of-roads.html"
 url = "/funding-of-roads.html"
 title = "Funding of roads"
