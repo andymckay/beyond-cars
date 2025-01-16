@@ -13,9 +13,9 @@ url = "/pages/others.html"
 title = "Others"
 
 [[input.files]]
-path = "the-federal-gas-tax-fund.html"
-url = "/the-federal-gas-tax-fund.html"
-title = "The Federal Gas Tax Fund"
+path = "the-canada-community-building-fund.html"
+url = "/the-canada-community-building-fund.html"
+title = "The Canada Community Building Fund"
 
 [[input.files]]
 path = "funding-of-roads.html"

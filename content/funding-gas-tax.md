@@ -1,14 +1,16 @@
-Title: The Federal Gas Tax Fund
+Title: The Canada Community Building Fund
 Date: 2025-01-16
 Tags: Politics, Money
 Category: British Columbia, Canada
-Summary: Some of the Federal Gas Tax is funneled back to the provine
+Summary: How taxes on gas is passed back to the provinces.
 
 💡 This article is part of a series about [funding of roads in British Columbia](https://beyondcars.ca/funding-of-roads.html).
 
-The Federal Gas Tax fund is a system created by and administered by the Federal Government. There is a federal excise tax on fuel currently at 10c per litre of fuel [^1]. This is separate from HST, GST, PST, and the carbon taxes which are all different taxes and vary depending upon that location. This money all goes into the big government pot of money the Consolidate Revenue Fund [^2].
+The federal "Gas Tax Fund" was a system created by the federal Government. It has since changed it's name to the Canada Community Building Fund. 
 
-The Government then allocates some of that money to go into the "Gas Tax Fund" now renamed to the Canada Community Building Fund. The previous naming of the "Gas Tax Fund" implied the money was earmarked from the excise tax. There is no clear indication that this is still the case and the amount going into the fund is not tied to the revenue. However, the impression that this is the case likely persists, so we'll go with it for now.
+The previous naming of the "Gas Tax Fund" implied the money was earmarked from the gas tax into the fund. There is no clear indication that this is still the case and the amount going into the fund is not tied to the revenue. However, the impression that this is the case likely persists, so we'll go with it for now. 
+
+There is a federal excise tax on fuel currently at 10c per litre of fuel [^1]. This is separate from HST, GST, PST, and the carbon taxes which are all different taxes and vary depending upon that location. This money all goes into the big government pot of money the Consolidate Revenue Fund [^2].
 
 The Government doesn't break this down much in it's accounts, but for all fuel sold in Canada, the Government received $5.6 billion in tax revenue in 2023-24 [^3].
 
